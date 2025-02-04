@@ -14,3 +14,4 @@ print("10:", a[10])
 
 print(a[1:9])
 print(a[::])
+print(a[::-1])
